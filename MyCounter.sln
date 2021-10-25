@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCounter", "MyCounter\MyCounter.csproj", "{0D886E03-6188-4C92-BB7A-BC852D8A444E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0AE165C2-F882-4F79-8925-D614FD228C49} = {0AE165C2-F882-4F79-8925-D614FD228C49}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService", "WcfService\WcfService.csproj", "{0AE165C2-F882-4F79-8925-D614FD228C49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D886E03-6188-4C92-BB7A-BC852D8A444E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D886E03-6188-4C92-BB7A-BC852D8A444E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D886E03-6188-4C92-BB7A-BC852D8A444E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D886E03-6188-4C92-BB7A-BC852D8A444E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE165C2-F882-4F79-8925-D614FD228C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE165C2-F882-4F79-8925-D614FD228C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE165C2-F882-4F79-8925-D614FD228C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE165C2-F882-4F79-8925-D614FD228C49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B6FC1D5-4A87-48E2-9882-9313C66D6948}
+	EndGlobalSection
+EndGlobal

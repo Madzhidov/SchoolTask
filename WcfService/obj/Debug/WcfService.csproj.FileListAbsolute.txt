@@ -1,0 +1,9 @@
+C:\Users\Дмитрий\source\repos\MyCounter\WcfService\bin\WcfService.dll.config
+C:\Users\Дмитрий\source\repos\MyCounter\WcfService\bin\WcfService.dll
+C:\Users\Дмитрий\source\repos\MyCounter\WcfService\bin\WcfService.pdb
+C:\Users\Дмитрий\source\repos\MyCounter\WcfService\obj\Debug\WcfService.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\MyCounter\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\MyCounter\WcfService\obj\Debug\WcfService.dll
+C:\Users\Дмитрий\source\repos\MyCounter\WcfService\obj\Debug\WcfService.pdb
+C:\Users\admin\Desktop\MyCounter\WcfService\obj\Debug\WcfService.dll
+C:\Users\admin\Desktop\MyCounter\WcfService\obj\Debug\WcfService.pdb

@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\source\repos\MyCounter\MyCounter\bin\Debug\MyCounter.exe.config
+C:\Users\Дмитрий\source\repos\MyCounter\MyCounter\bin\Debug\MyCounter.exe
+C:\Users\Дмитрий\source\repos\MyCounter\MyCounter\bin\Debug\MyCounter.pdb
+C:\Users\Дмитрий\source\repos\MyCounter\MyCounter\obj\Debug\MyCounter.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\MyCounter\MyCounter\obj\Debug\MyCounter.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\MyCounter\MyCounter\obj\Debug\MyCounter.exe
+C:\Users\Дмитрий\source\repos\MyCounter\MyCounter\obj\Debug\MyCounter.pdb
